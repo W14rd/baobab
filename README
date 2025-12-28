@@ -1,4 +1,7 @@
-  Please read the INSTALL file for installation instructions, particularly if
+A backward-compatible fork of tree bash util, with stat-like metadata, richer formatting, enumeration and editing. 
+`tree --help | grep "&"` for new flags
+
+Please read the INSTALL file for installation instructions, particularly if
 you are installing on a non-Linux machine.
 
   This is a handy little utility to display a tree view of directories that
